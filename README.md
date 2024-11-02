@@ -1,4 +1,3 @@
-#About me
 - 👋 Hello there! My name is Douglas, and I am a Data Analyst and Developer.
 - 🌱 I’m currently learning about data analysis, Python, and Java, and I often ask myself, "What will be my next challenge?"
 - 🚀 I am a technology enthusiast, constantly seeking to expand my knowledge.
@@ -6,8 +5,9 @@
 - 🧙‍♂️ Stay calm, my friend.
 - 😉 Follow me!
 
-#Contact me
-[LinkedIn](https://www.linkedin.com/in/douglas-sena-4998b0280/).
+
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/douglas-sena-4998b0280/)
+
 
 
 <!---
